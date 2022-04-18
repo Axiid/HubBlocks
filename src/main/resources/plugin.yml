@@ -1,0 +1,5 @@
+name: HubBlocks
+version: '${project.version}'
+main: it.axiid.hub.Main
+api-version: 1.18
+authors: [ Axiid ]
