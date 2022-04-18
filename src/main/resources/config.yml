@@ -1,0 +1,4 @@
+# Configuration File
+
+timer: 60 # in long (1 secondo = 20)
+block: WOOL
